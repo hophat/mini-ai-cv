@@ -1,0 +1,5 @@
+{
+  "name": "AI CV Builder",
+  "description": "An intelligent CV builder that helps you create, edit, and format professional resumes with the power of AI. Upload an existing CV or start with pre-filled data, choose a template, and refine your content with simple text prompts.",
+  "requestFramePermissions": []
+}
